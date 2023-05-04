@@ -4,4 +4,4 @@
 
 
 - [React Native example to connect with our API and metaplayer](https://github.com/soundpickr/examples/tree/main/react-native-api-and-metaplayer)
-- [NextJs example to connect with our API and metaplayer](https://github.com/soundpickr/examples/tree/main/nextjs-api-integration)
+- [Next.js example to connect with our API and metaplayer](https://github.com/soundpickr/examples/tree/main/nextjs-api-integration)

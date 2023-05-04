@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "sp-app",
+    "slug": "sp-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

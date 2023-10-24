@@ -1,6 +1,6 @@
 # Soundpickr Examples
 
-### This repo will showcase code examples to integrate our [API](https://docs.soundpickr.com/song_api/connect-with-api) and our [Metaplayer](https://docs.soundpickr.com/song_api/use-our-player) with different frameworks / programming languages
+### This repo will showcase code examples to integrate our [API](https://docs.soundpickr.com/song_api/connect-with-api) and our [Metaplayer](https://docs.soundpickr.com/song_api/use-our-player) with different frameworks / languages
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=cSCtbfSxvjo"><img src="https://img.youtube.com/vi/cSCtbfSxvjo/maxresdefault.jpg" alt="Metaplayer example"/></a>
